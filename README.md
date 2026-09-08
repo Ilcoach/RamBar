@@ -22,13 +22,6 @@ cd RamBar
 ./install.sh
 ```
 
-Or install this checkout:
-
-```bash
-cd /Users/alessandroviola/Documents/Progetti-atitvi/RamBar
-./install.sh
-```
-
 ## Requirements
 
 macOS 13 or later, Apple Silicon, and Swift/Xcode Command Line Tools.
